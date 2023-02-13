@@ -60,4 +60,4 @@ https://www.facebook.com/profile.php?id=100011369328802
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed336-cell)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed336-cell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
