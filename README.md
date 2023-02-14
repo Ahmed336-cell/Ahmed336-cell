@@ -19,7 +19,7 @@ https://www.facebook.com/profile.php?id=100011369328802
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed336-cell&layout=compact)](https://github.com/Ahmed336-cell/github-readme-stats)
-<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed336-cell&layout=compact"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed336-cell&show_icons=true&theme=radical)
 
 
 
