@@ -7,7 +7,10 @@
 
 📫 How to reach me 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white):https://www.linkedin.com/in/ahmed-maher-0106161b3/
+
+<a href="https://www.linkedin.com/in/ahmed-maher-0106161b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width:42px;height:42px;"></a>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white):
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 https://www.facebook.com/profile.php?id=100011369328802
