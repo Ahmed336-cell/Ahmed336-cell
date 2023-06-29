@@ -1,9 +1,9 @@
 # Hi, I’m Ahmed Maher👋
-👀 I’m interested in coding and programming especially Android development and ML 
+👀 I’m interested in coding and programming, especially Android development and ML 
 
 🌱 I’m currently learning Android development and ML
 
-💞️ I’m looking to collaborate on developed my skills
+💞️ I’m looking to collaborate on developing my skills
 
 📫 How to reach me 
 
