@@ -7,7 +7,11 @@
 <br>
 <br>
  👀 check my Portfolio <br>
-<a href="https://ahmed336-cell.github.io/ahmedmaherelmo.github.io/">My Portfolio</a>
+    <a href="https://ahmed336-cell.github.io/ahmedmaherelmo.github.io/">My Portfolio</a>
+<br>
+<br>
+📱 <b>Athar Mobile</b> — on-device Qur’an/hadith matcher (Android + Kotlin engine)<br>
+<a href="./athar-mobile/">athar-mobile/</a> · upstream web: <a href="https://github.com/Ahmedanwernouser/athar-ledger">athar-ledger</a>
 <br>
 
 

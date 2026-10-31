@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "athar-mobile-core",
+  "quran": 6236,
+  "hadith": 122,
+  "passages": 6358,
+  "source": "https://github.com/Ahmedanwernouser/athar-ledger",
+  "note": "Offline mobile pack: full Quran + Nawawi40 + Qudsi40 + 40 short Bukhari samples. Matching is deterministic (no LLM verdicts)."
+}

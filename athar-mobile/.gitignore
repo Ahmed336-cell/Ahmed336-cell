@@ -1,0 +1,14 @@
+/.gradle/
+/build/
+/*/build/
+/.idea/
+*.iml
+local.properties
+.DS_Store
+captures/
+*.apk
+*.aab
+*.onnx
+*.ggml
+*.bin
+!app/src/main/assets/corpus/**
